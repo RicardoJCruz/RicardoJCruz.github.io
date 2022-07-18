@@ -1,13 +1,13 @@
 ---
 layout: post
 title: GameDev.tv - Game Jam 2022
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: My expirience participating on a game jam
 tags: [gamejam, 3d modeling, unity]
 ---
 
-## Introduction
-
 This past May I joined [GameDev.tv](http://GameDev.tv) - Game Jam 2022, I had been away from doing anything related to animation and video games for more than a year, but I felt confident enough to join a Game Jam and see what I could achieve. In this post I’d like to describe my experience in this event.
+
+[Click here to go to the game](https://anigvit.itch.io/hell-run)
 
 ### What is a Game Jam?
 
@@ -34,20 +34,6 @@ Any way you choose to work, you will need a good distribution of the workload to
 ### Theme
 
 You can’t just start developing a game for any Game Jam, the game needs to be focused in a Theme that the community votes on. The theme is only revealed when the Game Jam officialy starts.
-
-## Summary
-
-### Set the goals
-
-You need to now what you are doing, before you actually start doing anything. Just after the theme of the Game Jam is revealed take your time to make a plan that explains what you want to achieve and what things you need to do. If you just start working on anything that comes to your mind you may have to redo stuff later to get a playable and fun game, and that takes time.
-
-### Keep the updates coming.
-
-If you already made your plan now it’s time to follow it. The sooner you can get things in the game engine the better, that gives you the opportunity to test the playability, find bugs and get feedback.
-
-### Prioritize time and tasks.
-
-You may have a list of things to do, you must define the things that make the skeleton of your project and find the correct amount of time to make each task. Take into consideration the time, tools and skills you have when you are doing your planning. Remember that building a game and uploading it to the internet takes time.
 
 ## Before the Jam
 
@@ -99,9 +85,7 @@ One important point here is that we did not have any concept art for the game, a
 ### Third task
 
 I got the task to make the main 3D assets for the game, this time I did sketches for these.
-****I made a total of 10 main assets for the level. These assets are conformed by meshes, collision meshes and texture maps.
-
-image
+****I made a total of 10 main assets for the level. These assets are conformed by meshes, collision meshes and texture maps.***
 
 ### A lot of problems
 
@@ -117,8 +101,18 @@ Importing the finished assets to Unity was the worst part, it is not difficult, 
 
 But my efforts were not in vain after all. My team was supportive about adding the art for the level past due time, I made the changes and, thankfully, the Lead Programmer took the time to make a new build of the game and update our submission.
 
-### The finished game
+This are the most important points that I learnt:
 
-[Click here to go to the game](https://anigvit.itch.io/hell-run)
+- Set the goals
+
+  You need to now what you are doing, before you actually start doing anything. Just after the theme of the Game Jam is revealed take your time to make a plan that explains what you want to achieve and what things you need to do. If you just start working on anything that comes to your mind you may have to redo stuff later to get a playable and fun game, and that takes time.
+
+- Keep the updates coming.
+
+  If you already made your plan now it’s time to follow it. The sooner you can get things in the game engine the better, that gives you the opportunity to test the playability, find bugs and get feedback.
+
+- Prioritize time and tasks.
+
+  You may have a list of things to do, you must define the things that make the skeleton of your project and find the correct amount of time to make each task. Take into consideration the time, tools and skills you have when you are doing your planning. Remember that building a game and uploading it to the internet takes time.
 
 I learned many things participating in this Game Jam and I am looking forward to continue improving my abilities. Thank you for reading.
