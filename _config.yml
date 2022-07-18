@@ -18,11 +18,7 @@ navbar-links:
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
-  #Author's home: "https://deanattali.com"
-  Test1: "hello"
-  Test2:
-    - Item 1: "Nothing"
-    - Item 2: "Nothing too"
+  CV: "..."
 
 # --- Logo --- #
 
